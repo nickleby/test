@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1317565,CODECS="avc1.42801f,mp4a.40.2",RESOLUTION=848x480
-https://stream-02.nyc.dailymotion.com/sec(MRbE_08IhureG_pwTTHWqlYCOHShE-xzbeJkyPUfpQHofv7q3J4oiuCVk2dLM1bG)/dm/3/x8j7czi/d/live-1.m3u8#cell=lnyc
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=30.000000,BANDWIDTH=1359872,CODECS="avc1.42001f,mp4a.40.2",NAME="480"
+https://stream-02.nyc.dailymotion.com/sec(MRbE_08IhureG_pwTTHWqmC3mQZyHdxLWETU4TWGX_oFi5Z-31fiJ8XhjuVTRdV8)/dm/3/x8j7czi/d/live-1.m3u8
